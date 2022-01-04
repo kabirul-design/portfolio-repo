@@ -105,6 +105,42 @@ banner area ends */
     
 }
 
+/* dream area ends */
+.expert-area{
+    margin-bottom: 100px;
+}
+.expert-title{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: black;
+}
+.box-container{
+    display: flex;
+    margin: 0 50px;
+}
+.expert-content{
+    width: 100%;
+    box-shadow: 3px 5px 6px 0px;
+    padding: 40px 40px;
+    margin: 30px;
+    color: #4c4c4c;
+}
+.expert-content h1{
+    font-size: 25px;
+    padding: 25px 10px;
+    color: #a0640a;
+}
+.expert-content h3{
+    font-size: 20px;
+    color: darkgray;
+}
+.expert-content p{
+    font-size: 15px;
+    color: black;
+}
+
 
 
 
