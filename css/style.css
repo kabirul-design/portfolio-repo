@@ -1,25 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
-
 body{
   font-family: 'Poppins', sans-serif;
-  overflow-x: hidden;
 
 }
 
-
-
-
-.banner-area{
-    display: flex;
-    
-}
-
-.banner-title{
-    margin: 50px ;
-}
- .banner-title h1{
+h1{
     font-size: 35px;
+}
+
+
+section{
+    display: flex;
 }
 
 span{
