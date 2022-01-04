@@ -5,20 +5,33 @@ body{
 
 }
 
-h1{
-    font-size: 35px;
-}
 
-
-section{
+.banner-area{
     display: flex;
 }
 
-span{
-    color: yellow;
+.banner-title{
+    margin-top: 100px;
+    margin-left: 80px;
 }
 
-.slider-content{
+.banner-title h1{
+    font-size: 40px;
+}
+.banner-title h3{
+    font-size: 20px;
+    color: darkgray;
+}
+.banner-title p{
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+
+span{
+    color: orange;
+}
+
+image{
     width: 50%;
     margin: 100px ;
 }
