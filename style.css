@@ -33,6 +33,13 @@ span{
   border: none;
   font-size: 15px;
   text-decoration: none;
+  transition: 0.3s ease;
+  color: black;
+  font-weight: 600;
+}
+.btn:hover{
+    background: crimson;
+    color: white;
 }
 
 
